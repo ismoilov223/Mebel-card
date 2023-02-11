@@ -10,7 +10,15 @@
 }
 .share-box-row {
   display: none;
+  box-shadow: 0px 10px 10px rgba(201, 213, 225, 0.503415);
 }
-.card-img{
-    border-radius: 10px 0px 0px 10px;
+.card-img {
+  border-radius: 10px 0px 0px 10px;
+}
+.boxes {
+  box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.503415);
+}
+.share-box-row-arrow {
+    width: 24px;
+    height: 24px;
 }
