@@ -1,0 +1,16 @@
+.share-box {
+  transition: all 0.3s;
+}
+.share-box:hover path {
+  fill: #fff;
+}
+.share-link:focus .share-box-row {
+  display: inline-block;
+  display: flex;
+}
+.share-box-row {
+  display: none;
+}
+.card-img{
+    border-radius: 10px 0px 0px 10px;
+}
